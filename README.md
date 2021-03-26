@@ -1,0 +1,3 @@
+- Akshat Sharma
+- code .... code .... headache... oof
+- C/C++, Python, HTML5
