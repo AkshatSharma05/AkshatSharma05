@@ -1,3 +1,3 @@
 - Akshat Sharma
-- code .... code .... headache... oof
+- MAIT '27
 - C/C++, Python, HTML5
