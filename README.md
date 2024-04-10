@@ -1,3 +1,2 @@
 - Akshat Sharma
 - MAIT '27
-- C/C++, Python, HTML5
